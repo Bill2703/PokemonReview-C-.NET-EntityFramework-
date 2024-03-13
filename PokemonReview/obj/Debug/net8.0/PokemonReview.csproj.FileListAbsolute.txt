@@ -135,3 +135,4 @@ C:\Users\Billy\Desktop\C#\PokemonReview\PokemonReview\obj\Debug\net8.0\refint\Po
 C:\Users\Billy\Desktop\C#\PokemonReview\PokemonReview\obj\Debug\net8.0\PokemonReview.pdb
 C:\Users\Billy\Desktop\C#\PokemonReview\PokemonReview\obj\Debug\net8.0\PokemonReview.genruntimeconfig.cache
 C:\Users\Billy\Desktop\C#\PokemonReview\PokemonReview\obj\Debug\net8.0\ref\PokemonReview.dll
+c:\Users\Billy\Desktop\C#\PokemonReview\PokemonReview\obj\Debug\net8.0\PokemonReview.sourcelink.json

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Billy\\Desktop\\C#\\PokemonReview\\PokemonReview\\PokemonReview.csproj": {}
+    "c:\\Users\\Billy\\Desktop\\C#\\PokemonReview\\PokemonReview\\PokemonReview.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Billy\\Desktop\\C#\\PokemonReview\\PokemonReview\\PokemonReview.csproj": {
+    "c:\\Users\\Billy\\Desktop\\C#\\PokemonReview\\PokemonReview\\PokemonReview.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Billy\\Desktop\\C#\\PokemonReview\\PokemonReview\\PokemonReview.csproj",
+        "projectUniqueName": "c:\\Users\\Billy\\Desktop\\C#\\PokemonReview\\PokemonReview\\PokemonReview.csproj",
         "projectName": "PokemonReview",
-        "projectPath": "C:\\Users\\Billy\\Desktop\\C#\\PokemonReview\\PokemonReview\\PokemonReview.csproj",
+        "projectPath": "c:\\Users\\Billy\\Desktop\\C#\\PokemonReview\\PokemonReview\\PokemonReview.csproj",
         "packagesPath": "C:\\Users\\Billy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Billy\\Desktop\\C#\\PokemonReview\\PokemonReview\\obj\\",
+        "outputPath": "c:\\Users\\Billy\\Desktop\\C#\\PokemonReview\\PokemonReview\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Billy\\AppData\\Roaming\\NuGet\\NuGet.Config"

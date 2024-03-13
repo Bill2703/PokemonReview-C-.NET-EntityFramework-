@@ -26,5 +26,9 @@ namespace PokemonReview.Controllers
 
             return Ok(pokemons);
         }
+        [HttpGet("{pokeId}")]
+        [ProducesResponseType(200, Type = typeof(Pokemon))]
+        [ProducesResponseType(400)]
+        public IActionResult GetPokemon(int pokeId)
     }
 }
